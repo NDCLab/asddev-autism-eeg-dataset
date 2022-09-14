@@ -1,4 +1,4 @@
-# [project name]
+# [project name] - this is a test
 
 ## Project Goal
 Replace this text with a pithy description of the goal of the data collection project.
@@ -31,3 +31,5 @@ Learn more about us [here](https://www.ndclab.com/people).
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 :point_right: Keep the "Contributing" text above as the default NDCLab "blurb" to help visitors navigate the repo. But delete this note before publishing the readme file.
+
+THIS IS A CHANGE!
